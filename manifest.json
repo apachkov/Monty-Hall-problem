@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Monty Hall problem Extension",
+  "description": "This extension is a simulation of the Monty Hall problem.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "img/icon.png"
+  }
+}
